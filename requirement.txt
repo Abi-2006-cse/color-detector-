@@ -2,4 +2,4 @@ streamlit
 pandas
 numpy
 pillow
-streamlit-image-coordinates
+git+https://github.com/<color detector>/streamlit-image-coordinates.git
